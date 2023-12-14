@@ -1,0 +1,11 @@
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\bin\Debug\WindowsJune17_CRUD.exe.config
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\bin\Debug\WindowsJune17_CRUD.exe
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\bin\Debug\WindowsJune17_CRUD.pdb
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\obj\Debug\WindowsJune17_CRUD.csproj.AssemblyReference.cache
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\obj\Debug\WindowsJune17_CRUD.csproj.SuggestedBindingRedirects.cache
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\obj\Debug\WindowsJune17_CRUD.Form1.resources
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\obj\Debug\WindowsJune17_CRUD.Properties.Resources.resources
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\obj\Debug\WindowsJune17_CRUD.csproj.GenerateResource.cache
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\obj\Debug\WindowsJune17_CRUD.csproj.CoreCompileInputs.cache
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\obj\Debug\WindowsJune17_CRUD.exe
+D:\CDAC\Dot net Class\WindowsJune17_CRUD\WindowsJune17_CRUD\obj\Debug\WindowsJune17_CRUD.pdb
